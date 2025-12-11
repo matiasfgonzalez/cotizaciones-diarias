@@ -1,0 +1,26 @@
+{
+  "name": "Cotizaciones Diarias",
+  "short_name": "Cotizaciones",
+  "description": "Cotización del dólar hoy en Argentina: blue, oficial, MEP, CCL y tarjeta. Valores actualizados de criptomonedas, euro, real, libra, yen, yuan, oro y petróleo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "business"],
+  "lang": "es-AR"
+}

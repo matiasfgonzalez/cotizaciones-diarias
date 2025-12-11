@@ -1,0 +1,12 @@
+# Sitemap
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://cotizacionesdiarias.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin or private paths (none in this project)
+# Disallow: /admin/
